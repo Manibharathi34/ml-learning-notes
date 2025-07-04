@@ -7,10 +7,3 @@ jupyter
 notebook
 ipython
 scipy
-sentence-transformers
-spacy
-nltk
-xgboost
-lightgbm
-statsmodels
-openpyxl
